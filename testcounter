@@ -1,0 +1,10 @@
+// test with code
+
+
+#[starknet::contract]
+mod SimpleCounter {
+    #[storage]
+    struct Storage {
+        // Counter variable
+        counter: u128,
+    }
