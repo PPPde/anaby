@@ -1,7 +1,7 @@
 // test with code
 
 if() above before
-then after
+then after add and remove 1
 #[starknet::contract]
 mod SimpleCounter {
     #[storage]
