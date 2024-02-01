@@ -1,4 +1,4 @@
-// test with code
+// test with sn
 
 if() above before
 then after add and remove 1
@@ -6,6 +6,6 @@ then after add and remove 1
 mod SimpleCounter {
     #[storage]
     struct Storage {
-        // Counter variable
+    
         counter: u128,
     }
