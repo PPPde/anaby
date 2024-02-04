@@ -2,7 +2,7 @@
 
 if() above before
 then after add and remove 1
-#[starknet::contract]
+if not add 1
 mod SimpleCounter {
     #[storage]
     struct Storage {
