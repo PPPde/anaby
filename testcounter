@@ -6,6 +6,6 @@ if not add 1
 mod SimpleCounter {
     #[storage]
     struct Storage {
-    
+    or()
         counter: u128,
     }
