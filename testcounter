@@ -7,5 +7,6 @@ mod SimpleCounter {
     #[storage]
     struct Storage {
     or()
+else count()
         counter: u128,
     }
